@@ -1,5 +1,10 @@
-# test
+# MDN Vue Tutorial
 
+## MDN Vue Tutorial URL
+### https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started
+
+## 사용한 것들
+### Vue, HTML, CSS, JavaScript
 ## Project setup
 ```
 npm install
